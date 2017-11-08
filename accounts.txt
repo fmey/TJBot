@@ -1,15 +1,43 @@
-Speech to Text
+Speech to Text-01
 {
   "url": "https://stream.watsonplatform.net/speech-to-text/api",
   "username": "22ae38b8-c23c-4bb0-b35b-55ee22634026",
   "password": "ZuZkHVVXfXHm"
 }
 
-Text to Speech
+Speech to Text-02
+{
+  "url": "https://stream.watsonplatform.net/speech-to-text/api",
+  "username": "eb41b3a3-66b2-4a71-a227-54879191009b",
+  "password": "aHqDX5PpnhWM"
+}
+
+Speech to Text-03
+{
+  "url": "https://stream.watsonplatform.net/speech-to-text/api",
+  "username": "b01226e7-073b-4f02-b52e-940ce1fb7201",
+  "password": "icXn1368laoD"
+}
+
+Text to Speech-01
 {
   "url": "https://stream.watsonplatform.net/text-to-speech/api",
   "username": "716e921e-04a4-4fd0-b880-cf5e6b62d7e7",
   "password": "qGHXtEHdiJi4"
+}
+
+Text to Speech-02
+{
+  "url": "https://stream.watsonplatform.net/text-to-speech/api",
+  "username": "fd9678c4-9e30-4316-80c1-ea784d9f5b09",
+  "password": "idSlDAuwdjNT"
+}
+
+Text to Speech-03
+{
+  "url": "https://stream.watsonplatform.net/text-to-speech/api",
+  "username": "287743a0-8480-40ed-bfa1-e8cb05c8c44b",
+  "password": "qFnCw8ieVzyd"
 }
 
 01) Conversation-01
