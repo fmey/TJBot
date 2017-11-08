@@ -1,0 +1,93 @@
+Speech to Text
+{
+  "url": "https://stream.watsonplatform.net/speech-to-text/api",
+  "username": "22ae38b8-c23c-4bb0-b35b-55ee22634026",
+  "password": "ZuZkHVVXfXHm"
+}
+
+Text to Speech
+{
+  "url": "https://stream.watsonplatform.net/text-to-speech/api",
+  "username": "716e921e-04a4-4fd0-b880-cf5e6b62d7e7",
+  "password": "qGHXtEHdiJi4"
+}
+
+01) Conversation-01
+https://watson-conversation.ng.bluemix.net/eu-gb/5d4afb0b-d3f9-4938-865d-340b5c460230/workspaces
+{
+  "url": "https://gateway.watsonplatform.net/conversation/api",
+  "username": "e64dae60-a112-4890-a35f-7b4315f4c267",
+  "password": "djbuZHFIwSwr"
+}
+
+02) Conversation-02
+https://watson-conversation.ng.bluemix.net/eu-gb/222a2b51-5675-4640-8361-8bf955716b50/workspaces
+{
+  "url": "https://gateway.watsonplatform.net/conversation/api",
+  "username": "6e9e1606-065e-491d-9eec-cc7dcc8d5555",
+  "password": "GoxmdJSoO2UJ"
+}
+
+03) Conversation-03
+https://watson-conversation.ng.bluemix.net/eu-gb/dc05cbce-551c-40d1-b9d8-12e7e32298df/workspaces
+{
+  "url": "https://gateway.watsonplatform.net/conversation/api",
+  "username": "d097e760-9e01-4b68-b36d-59eb317e9176",
+  "password": "QPjshMXQYfG5"
+}
+
+04) Conversation-04
+https://watson-conversation.ng.bluemix.net/eu-gb/6183c2f4-c464-491e-980f-136df50a6f9c/workspaces
+{
+  "url": "https://gateway.watsonplatform.net/conversation/api",
+  "username": "bb29df76-1332-4481-abab-db34e662912d",
+  "password": "wjM41Fmmhec3"
+}
+
+05) Conversation-05
+https://watson-conversation.ng.bluemix.net/eu-gb/a082e73e-0730-4462-8a5a-a3313b9e767c/workspaces
+{
+  "url": "https://gateway.watsonplatform.net/conversation/api",
+  "username": "94ed43d7-bbcc-4b12-b646-6c93052e61e2",
+  "password": "cb6qgxxks1Qg"
+}
+
+06) Conversation-06
+https://watson-conversation.ng.bluemix.net/eu-gb/534be121-6ae0-46d4-b1f4-8b33f7eea6ce/workspaces
+{
+  "url": "https://gateway.watsonplatform.net/conversation/api",
+  "username": "e2b5f04e-693c-4eb6-b28b-cdcfe73874b2",
+  "password": "CnD2ec5ENi2w"
+}
+
+07) Conversation-07
+https://watson-conversation.ng.bluemix.net/eu-gb/9cf8832c-e4d6-46ef-9755-bc9ff6dc0043/workspaces
+{
+  "url": "https://gateway.watsonplatform.net/conversation/api",
+  "username": "9a1fdc87-fe1f-46cd-81ce-bf5bb804e069",
+  "password": "np6ehkO6ubM4"
+}
+
+08) Conversation-08
+https://watson-conversation.ng.bluemix.net/eu-gb/0fcf3e8f-d3f5-4cd8-ae56-c809c6cf5842/workspaces
+{
+  "url": "https://gateway.watsonplatform.net/conversation/api",
+  "username": "33993d65-cdca-43c1-9d81-3b1b1784e233",
+  "password": "DuKXyx5maRxJ"
+}
+
+09) Conversation-09
+https://watson-conversation.ng.bluemix.net/eu-gb/2ae1ff62-9d65-428f-8f00-b9442fc931c5/workspaces
+{
+  "url": "https://gateway.watsonplatform.net/conversation/api",
+  "username": "17d14585-c87a-463b-9656-641f43aeb16e",
+  "password": "goj6MEFGcBNy"
+}
+
+10) Conversation-10
+https://watson-conversation.ng.bluemix.net/eu-gb/3ea9d179-3d42-4f3d-bb48-5f8a835399c9/workspaces
+{
+  "url": "https://gateway.watsonplatform.net/conversation/api",
+  "username": "23256e55-6b42-4413-bd8e-474c64ab31bf",
+  "password": "kJlT1POqpctX"
+}
