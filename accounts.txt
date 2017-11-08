@@ -14,6 +14,7 @@ Text to Speech
 
 01) Conversation-01
 https://watson-conversation.ng.bluemix.net/eu-gb/5d4afb0b-d3f9-4938-865d-340b5c460230/workspaces
+Workspace ID: af58bf11-f551-4c20-9ecf-c7071b78874a
 {
   "url": "https://gateway.watsonplatform.net/conversation/api",
   "username": "e64dae60-a112-4890-a35f-7b4315f4c267",
@@ -22,6 +23,7 @@ https://watson-conversation.ng.bluemix.net/eu-gb/5d4afb0b-d3f9-4938-865d-340b5c4
 
 02) Conversation-02
 https://watson-conversation.ng.bluemix.net/eu-gb/222a2b51-5675-4640-8361-8bf955716b50/workspaces
+Workspace ID: 41e8cefe-5de6-4a31-a04f-10e2de85b4f1
 {
   "url": "https://gateway.watsonplatform.net/conversation/api",
   "username": "6e9e1606-065e-491d-9eec-cc7dcc8d5555",
@@ -30,6 +32,7 @@ https://watson-conversation.ng.bluemix.net/eu-gb/222a2b51-5675-4640-8361-8bf9557
 
 03) Conversation-03
 https://watson-conversation.ng.bluemix.net/eu-gb/dc05cbce-551c-40d1-b9d8-12e7e32298df/workspaces
+Workspace ID: 992e8831-f2e2-4bec-905f-b324a065bfba
 {
   "url": "https://gateway.watsonplatform.net/conversation/api",
   "username": "d097e760-9e01-4b68-b36d-59eb317e9176",
@@ -38,6 +41,7 @@ https://watson-conversation.ng.bluemix.net/eu-gb/dc05cbce-551c-40d1-b9d8-12e7e32
 
 04) Conversation-04
 https://watson-conversation.ng.bluemix.net/eu-gb/6183c2f4-c464-491e-980f-136df50a6f9c/workspaces
+Workspace ID: 715e3d11-e77f-48d1-b331-c030f233692a
 {
   "url": "https://gateway.watsonplatform.net/conversation/api",
   "username": "bb29df76-1332-4481-abab-db34e662912d",
@@ -46,6 +50,7 @@ https://watson-conversation.ng.bluemix.net/eu-gb/6183c2f4-c464-491e-980f-136df50
 
 05) Conversation-05
 https://watson-conversation.ng.bluemix.net/eu-gb/a082e73e-0730-4462-8a5a-a3313b9e767c/workspaces
+Workspace ID: 4d2db6fd-05bc-40e2-a8ab-230c37ea6dfb
 {
   "url": "https://gateway.watsonplatform.net/conversation/api",
   "username": "94ed43d7-bbcc-4b12-b646-6c93052e61e2",
@@ -54,6 +59,7 @@ https://watson-conversation.ng.bluemix.net/eu-gb/a082e73e-0730-4462-8a5a-a3313b9
 
 06) Conversation-06
 https://watson-conversation.ng.bluemix.net/eu-gb/534be121-6ae0-46d4-b1f4-8b33f7eea6ce/workspaces
+Workspace ID: d67d5906-eab8-480d-94cd-c7a7c86c5447
 {
   "url": "https://gateway.watsonplatform.net/conversation/api",
   "username": "e2b5f04e-693c-4eb6-b28b-cdcfe73874b2",
@@ -62,6 +68,7 @@ https://watson-conversation.ng.bluemix.net/eu-gb/534be121-6ae0-46d4-b1f4-8b33f7e
 
 07) Conversation-07
 https://watson-conversation.ng.bluemix.net/eu-gb/9cf8832c-e4d6-46ef-9755-bc9ff6dc0043/workspaces
+Workspace ID: 77947686-b9b2-4b2c-a1d0-ad4dd4010634
 {
   "url": "https://gateway.watsonplatform.net/conversation/api",
   "username": "9a1fdc87-fe1f-46cd-81ce-bf5bb804e069",
@@ -70,6 +77,7 @@ https://watson-conversation.ng.bluemix.net/eu-gb/9cf8832c-e4d6-46ef-9755-bc9ff6d
 
 08) Conversation-08
 https://watson-conversation.ng.bluemix.net/eu-gb/0fcf3e8f-d3f5-4cd8-ae56-c809c6cf5842/workspaces
+Workspace ID: 512801e2-9f8f-42e2-9e33-1b6a7fcea879
 {
   "url": "https://gateway.watsonplatform.net/conversation/api",
   "username": "33993d65-cdca-43c1-9d81-3b1b1784e233",
@@ -78,6 +86,7 @@ https://watson-conversation.ng.bluemix.net/eu-gb/0fcf3e8f-d3f5-4cd8-ae56-c809c6c
 
 09) Conversation-09
 https://watson-conversation.ng.bluemix.net/eu-gb/2ae1ff62-9d65-428f-8f00-b9442fc931c5/workspaces
+Workspace ID: 3ab5e12c-775f-4595-8c9a-6cf79a6e01a5
 {
   "url": "https://gateway.watsonplatform.net/conversation/api",
   "username": "17d14585-c87a-463b-9656-641f43aeb16e",
@@ -86,6 +95,7 @@ https://watson-conversation.ng.bluemix.net/eu-gb/2ae1ff62-9d65-428f-8f00-b9442fc
 
 10) Conversation-10
 https://watson-conversation.ng.bluemix.net/eu-gb/3ea9d179-3d42-4f3d-bb48-5f8a835399c9/workspaces
+Workspace ID: 198ac14d-038d-4165-af71-7c06a3598996
 {
   "url": "https://gateway.watsonplatform.net/conversation/api",
   "username": "23256e55-6b42-4413-bd8e-474c64ab31bf",
