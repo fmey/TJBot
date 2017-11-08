@@ -1,3 +1,5 @@
+--------------------------------------------------------------------------------
+
 Speech to Text-01
 {
   "url": "https://stream.watsonplatform.net/speech-to-text/api",
@@ -19,6 +21,8 @@ Speech to Text-03
   "password": "icXn1368laoD"
 }
 
+--------------------------------------------------------------------------------
+
 Text to Speech-01
 {
   "url": "https://stream.watsonplatform.net/text-to-speech/api",
@@ -39,6 +43,8 @@ Text to Speech-03
   "username": "287743a0-8480-40ed-bfa1-e8cb05c8c44b",
   "password": "qFnCw8ieVzyd"
 }
+
+--------------------------------------------------------------------------------
 
 01) Conversation-01
 https://watson-conversation.ng.bluemix.net/eu-gb/5d4afb0b-d3f9-4938-865d-340b5c460230/workspaces
@@ -129,3 +135,5 @@ Workspace ID: 198ac14d-038d-4165-af71-7c06a3598996
   "username": "23256e55-6b42-4413-bd8e-474c64ab31bf",
   "password": "kJlT1POqpctX"
 }
+
+--------------------------------------------------------------------------------
